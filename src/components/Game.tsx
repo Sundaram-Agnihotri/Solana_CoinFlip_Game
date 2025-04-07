@@ -8,7 +8,7 @@ import { Coins as Coin, PinOff as CoinOff } from 'lucide-react';
 import toast from 'react-hot-toast';
 
 const PLATFORM_FEE = 0.03; // 3%
-const PLATFORM_WALLET = new PublicKey('6fQytE8KQZvEVvGnSM6kfWbtVbso8j3GhFQPuZoHZCmD'); // Replace with your platform wallet
+const PLATFORM_WALLET = new PublicKey('EXLmGsA8GpcZsPxmB5t8LyadWKX6A8DA4V9APGYNq9fG'); // Replace with your platform wallet
 const BACKEND_URL = "http://localhost:3000"
 
 const Game = () => {
